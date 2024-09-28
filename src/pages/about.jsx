@@ -2,7 +2,7 @@ import React from 'react'
 
 const about = () => {
   return (
-    <div>This is master about</div>
+    <div>This is pulltest about</div>
   )
 }
 
