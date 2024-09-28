@@ -2,7 +2,7 @@ import React from 'react'
 
 const Three = () => {
   return (
-    <div>Master Three</div>
+    <div>Three in env</div>
   )
 }
 
