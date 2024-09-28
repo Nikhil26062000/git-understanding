@@ -2,7 +2,9 @@ import React from 'react'
 
 const one = () => {
   return (
-    <div> master one</div>
+
+    <div>one</div>
+
   )
 }
 
